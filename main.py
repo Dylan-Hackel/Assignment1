@@ -47,3 +47,4 @@ print("""
  ░       ░ ░
 
 """)
+print("Made by Copilot, not Dylan")
